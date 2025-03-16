@@ -1,6 +1,7 @@
 # Ai-interviewer
 React AI Mock Interview is an innovative web application designed to simulate real-world mock interviews using AI. With seamless user authentication, an intuitive interface, and integration with advanced AI, this project serves as an invaluable tool for interview preparation.
-##Features
+
+**Features**
 *AI-Powered Mock Interviews
 Leverage Google Gemini AI to simulate realistic interview scenarios, evaluate responses, and provide personalized feedback.
 
@@ -16,7 +17,7 @@ All user progress, interview analytics, and configurations are stored securely i
 *Dynamic Interview Customization
 Customize interviews based on job roles, difficulty levels, and domains.
 
-##Tech Stack
+**Tech Stack**
 *Frontend: React.js
 *Authentication: Clerk
 *UI Framework: Shadcn UI
